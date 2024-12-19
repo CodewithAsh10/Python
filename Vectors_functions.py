@@ -7,7 +7,7 @@ print("Dot Product is = ",dot_ab)
 cross_ab=np.cross(a,b)
 print("Cross Product is = ",cross_ab)
 mag_a = np.linalg.norm(a)
-mag_b = mag_a = np.linalg.norm(b)
+mag_b = np.linalg.norm(b)
 
 print("Magnitude of A: ",mag_a)
 print("Magnitude of B: ",mag_b)
