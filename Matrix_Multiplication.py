@@ -1,6 +1,5 @@
 import numpy as np
 
-# Function to take a 3x3 matrix as input from the user
 def input_matrix(name):
     print(f"Enter the elements of matrix {name} row by row:")
     matrix = []
