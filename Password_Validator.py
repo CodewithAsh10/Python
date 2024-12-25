@@ -5,7 +5,7 @@ def validate_password(password):
     p_special = False
     valid_length = 6 <= len(password) <= 12
 
-    for c in password():
+    for c in password:
         if c.islower():
             p_lower = True
         elif c.isupper():
