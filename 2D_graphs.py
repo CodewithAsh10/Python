@@ -1,5 +1,4 @@
 #Graph Codes
-
 #Vertical Bar Graph
 import matplotlib.pyplot as plt
 categories = ['A','B','C','D']
